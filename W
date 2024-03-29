@@ -1,0 +1,7 @@
+echo "# hs15" >> README.md 
+git init 
+git add README.md 
+git commit -m “第一次提交” 
+git分支 -M main 
+git 遠端新增原點https://github.com/Chhsiang0115/hs15.git
+ git push - u 起源主要
